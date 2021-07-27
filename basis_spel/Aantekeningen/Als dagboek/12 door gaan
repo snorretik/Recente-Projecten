@@ -1,0 +1,89 @@
+Nou weer een nieuwe dag dat ik er aan wil beginnen en verder gaan.
+
+Waar te beginnen? Toch teruglezen even? Ik denk dat ik niet anders kan misschien.
+Oke nummer 10 heeft wel wat concreets om terug te kunnen lezen.
+
+Ja, notitie nummer 10 geeft aan dat ik als laatste bewust was geworden van de noodzaak van
+webpack, volgens mij.
+Misschien moet ik nog iets verder terug kijken. Nummer 9 was niks.
+
+Nou, op nummer 7 nog wat gevonden. Maar verder misschien toch een heel stuk minder nog gedaan
+dan dat ik dacht.
+
+Ik dacht ook ergens te moeten teruglezen dat ik voor het eerst debug feedback kreeg, dat was
+namelijk een doorbraak. Dat ik met de debugger alsnog ging kijken.
+
+Oh ja, de vorm van het terrein, maar ook de kleuren van die áfbeelding op zich.
+Ja dat is misschien ook belangrijk nog.
+Maar daar ga ik vanzelf mee aan de slag, als ik de eerste dingen werkend krijg.
+
+-
+
+Oke nou, even naar de structuur nu kijken. Ik heb dus inderdaad in principe zowel de pathseg
+file en poly-decomp file als aparte javascript files in de src map. Dat kan.
+
+Er staat ook een myscript in, maar die is voordat ik "in het diepe sprong" met het terrain svg
+voorbeeld (volgens mij), die probeerde ik werkend te krijgen (als ie is). Echter niet gelukt,
+nou goed. Nog niet in ieder geval.
+
+En nu?
+
+Oke nou, even de dependencies apart testen, kan ook een goed idee zijn.
+
+Zie hier ineens iets staan, bij de polydecomp was het fromVertices, en nu bij de pathseg
+referentie ook iets over... nou, nu pathToVertices.
+Daar gaat het toch wel echt om, kijken of ik daar ook iets aan heb. Kan zomaar iets zijn hoor.
+Ja ook bodies.fromVertices wordt ook daar in dat begin genoemd. Dus het heeft wel degelijk met
+elkaar te maken hoor! Enigszins in ieder geval.
+
+Misschien moet ik een paar minimale zelfgemaakte testfiles maken. Kan sowieso nuttig zijn om er
+feeling mee te krijgen. Het opdelen in kleinere stukjes doe ik dan wel goed.
+Door helemaal zelf proberen voorbeeldjes te maken kan ik het zo simpel mogelijk proberen te
+houden en kom ik te weten wat echt noodzakelijk is voor voorbeeldjes!
+
+Zit nu dingen te lezen die hebben geleid tot het splitsen van SVG en pathseg (schijnbaar). Maar
+heeft niet heel veel zin... dacht wat context te kunnen vinden misschien om beter te begrijpen
+hoe het zou werken in ieder geval.
+
+Er is mogelijk wel gewerkt aan een vervanger of zo. Het is geschrapt, voor uiteindelijk een
+betere optie (mogelijk), en dat dit een enigszins werkzame tussenoplossing was, misschien kan
+ik verder met een nieuwere manier! Even kijken.
+
+Nou, misschien toch niet. Of nog niet. Ik weet het niet, in ieder geval op het oog beperkte
+documentatie of niet ver door gezocht tot iets constructiefs (kan "dieper" zitten, ik blijf
+niet door klikken).
+
+Oke, polyfill is gewoon de naam voor iets wat iets anders zou moeten vervangen.
+Kan je opzoeken. Ik dacht het is iets geometrisch maar dus absoluut niet. Het is gewoon een fix
+ergens voor wat iets even (tijdelijk, misschien) heeft vervangen. Nou goed. Goed om te weten.
+Even opgeslagen bij programmeren algemeen. Ja.. die map... daar zitten dus...
+
+Map "Programming algemeen" in "Documents" daar zitten de aantekeningen in die ik maakte van het
+afhankelijk zijn van webpack. Of require. Dat was wat ik misschien als laatste had gedaan.
+Maar heb dat niet in de notities aangegeven dat ik dat daarin had vastgelegd. Kan ik dan nu
+even nog iets beter overnemen en me mee updaten, nou goed.
+Niet veel, maar (nog) iets in ieder geval, het laatste wat ik deed toen (mogelijk).
+
+Oke ik heb iets gezocht (niet geheel verstandig), maar vind nu iets van iemand die het
+gedeeltelijk voor elkaar weet te krijgen maar een afbeelding met een gat erin heeft waar ook
+van aangegeven wordt dat dat fout kan gaan. Nou ja, maar als ik het op diezelfde manier doe
+loop ik waarschijnlijk niet tegen dat probleem aan. Maar ja. Dan heb ik het meteen voor elkaar.
+Dit is mogelijk zo'n spoil vraag (of liever: antwoord) die ik niet wilde. Even kijken of ik het
+overneem of weg klik.
+
+Ik vind nu mogelijk te veel, maar hier ook weer een alternatief mogelijk op pathseg, anders,
+maar wel gebaseerd op pathseg (maar iets meer aan functionaliteit dan als ik het goed begrijp).
+Kan ook nog. Genaamd path-data-polyfill (van jarek-foksa op github). Kan ik op terug komen,
+misschien beter te gebruiken of beter beschreven kan van allerlei nut blijken te hebben.
+
+Er wordt ook genoemd dat je pathseg in je svg files zelf kan zetten misschien?? Misschien hoort
+het enclosed informatie te zijn binnen een svg afbeelding of zo... zou kunnen, even kijken of
+dat kan.
+
+Oke nou zie ik ook iets staan in pathseg readme.md zelf (op github) dat the SVGPathSeg API
+moeilijk was om te gebruiken. En refereert echter weer naar path-data-polyfill (die ik net
+hierboven noemde/vond). Oké, dan is het misschien wel het overwegen waard. Dan durf ik het wel
+aan. Want er wordt in deze polyfill naar doorverwezen dus, waarom dan er geen gebruik van
+maken?
+
+Mooi mooi mooi ik begin nu wel echt iets te bereiken hierin, dit zijn goeie aanknopingspunten.

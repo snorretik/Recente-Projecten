@@ -1,0 +1,32 @@
+Oke hier zijn de Phaser voorkeuren voor een spritesheet. Het geeft wat houvast hoe je ze voor
+Phaser moeten maken. Maar... het kan natuurlijk dat het anders beter is. Maar als je geen idee
+hebt, dit zijn de stappen die ik gemaakt heb voor mijn eerste soldaatje spritesheet.
+
+Je kan dit in de Phaser documentatie vinden als je in op aseprite zoekt in animation manager.
+Dan is er een createFromAseprite. En daarin staan de stappen.
+
+-----
+
+To export a compatible JSON file in Aseprite, please do the following:
+
+    Go to "File - Export Sprite Sheet"
+
+    On the Layout tab: 2a. Set the "Sheet type" to "Packed" 2b. Set the "Constraints" to "None" 2c. Check the "Merge Duplicates" checkbox
+
+    On the Sprite tab: 3a. Set "Layers" to "Visible layers" 3b. Set "Frames" to "All frames", unless you only wish to export a sub-set of tags
+
+    On the Borders tab: 4a. Check the "Trim Sprite" and "Trim Cells" options 4b. Ensure "Border Padding", "Spacing" and "Inner Padding" are all > 0 (1 is usually enough)
+
+    On the Output tab: 5a. Check "Output File", give your image a name and make sure you choose "png files" as the file type 5b. Check "JSON Data" and give your json file a name 5c. The JSON Data type can be either a Hash or Array, Phaser doesn't mind. 5d. Make sure "Tags" is checked in the Meta options 5e. In the "Item Filename" input box, make sure it says just "{frame}" and nothing more.
+
+    Click export
+
+This was tested with Aseprite 1.2.25.
+
+This will export a png and json file which you can load using the Aseprite Loader, i.e.:
+
+------
+
+Oke nu nog wat meer over de spritesheet instellingen. Als ik het een beetje wil laten werken
+zoals die van Udemy moet ik 'm als array instellen in plaats van hash. Veranderd alleen dat het
+geheel is opgeslagen in een array en dat is in de JSON van Udemy ook.

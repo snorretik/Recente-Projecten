@@ -1,0 +1,5 @@
+uit 5 "nu echt begonnen":
+
+Oke er worden twee extra dingen genoemd. Iets genaamd pathseg.js is voortaan nodig. En ook voor
+bepaalde vormen (concave) heb je misschien poly-decomp.js nodig. Dus dat is ook iets om 
+rekening mee te houden.

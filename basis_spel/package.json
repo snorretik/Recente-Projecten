@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "matter-js": "^0.16.1",
+    "poly-decomp": "^0.3.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.37.0",
+    "webpack-cli": "^4.7.0"
+  }
+}

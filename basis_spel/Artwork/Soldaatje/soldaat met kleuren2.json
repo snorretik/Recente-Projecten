@@ -1,0 +1,139 @@
+{ "frames": [
+   {
+    "filename": "0",
+    "frame": { "x": 1, "y": 1, "w": 10, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 6, "w": 8, "h": 21 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 200
+   },
+   {
+    "filename": "1",
+    "frame": { "x": 1, "y": 1, "w": 10, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 6, "w": 8, "h": 21 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 200
+   },
+   {
+    "filename": "2",
+    "frame": { "x": 12, "y": 1, "w": 10, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 6, "w": 8, "h": 21 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 200
+   },
+   {
+    "filename": "3",
+    "frame": { "x": 1, "y": 1, "w": 10, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 6, "w": 8, "h": 21 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 200
+   },
+   {
+    "filename": "4",
+    "frame": { "x": 1, "y": 1, "w": 10, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 6, "w": 8, "h": 21 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 200
+   },
+   {
+    "filename": "5",
+    "frame": { "x": 23, "y": 25, "w": 10, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 8, "w": 8, "h": 19 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 200
+   },
+   {
+    "filename": "6",
+    "frame": { "x": 12, "y": 25, "w": 10, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 7, "w": 8, "h": 20 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 200
+   },
+   {
+    "filename": "7",
+    "frame": { "x": 1, "y": 1, "w": 10, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 6, "w": 8, "h": 21 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 200
+   },
+   {
+    "filename": "8",
+    "frame": { "x": 1, "y": 1, "w": 10, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 6, "w": 8, "h": 21 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "9",
+    "frame": { "x": 23, "y": 1, "w": 10, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 6, "w": 8, "h": 21 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "10",
+    "frame": { "x": 1, "y": 25, "w": 10, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 6, "w": 8, "h": 21 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "11",
+    "frame": { "x": 23, "y": 1, "w": 10, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 6, "w": 8, "h": 21 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   },
+   {
+    "filename": "12",
+    "frame": { "x": 1, "y": 1, "w": 10, "h": 23 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 11, "y": 6, "w": 8, "h": 21 },
+    "sourceSize": { "w": 32, "h": 32 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.25-x64",
+  "image": "soldaat met kleuren2.png",
+  "format": "RGBA8888",
+  "size": { "w": 33, "h": 48 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Staand", "from": 0, "to": 0, "direction": "forward" },
+   { "name": "Loop", "from": 1, "to": 3, "direction": "forward" },
+   { "name": "Jump", "from": 4, "to": 7, "direction": "forward" },
+   { "name": "Druk", "from": 8, "to": 12, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

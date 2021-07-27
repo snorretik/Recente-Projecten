@@ -1,0 +1,10 @@
+pathseg
+
+oke nou...
+
+Matter.Svg is nodig om SVG afbeeldingen om te zetten in vector punten. Letterlijk vertaald van
+Matter.Svg bovenaan.
+"To use this module you also need the SVGPathSeg polyfill:"
+*link-naar-pathseg*
+
+

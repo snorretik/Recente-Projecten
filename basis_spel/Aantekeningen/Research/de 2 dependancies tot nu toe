@@ -1,0 +1,23 @@
+De twee dependancies in dit spelletje tot nu toe:
+
+- pathseg.js
+- poly-decomp.js
+
+indirect webpack misschien.
+
+-
+
+En hoe te implementeren natuurlijk, indirect. Meerdere mogelijkheden, script zelf downloaden en
+proberen toe te voegen. Of via node of webpack of wat dan ook. Volgens mij had ik destijds net
+kunnen concluderen dat om... require (denk ik nu) te kunnen gebruiken toch echt iets als
+webpack of zo nodig was.
+
+*webpack toegevoegd bij de 2 dependancies hier bovenaan*
+
+-
+
+Even afzonderlijk testen ook!
+
+Oké ik begin het idee te krijgen dat ze wel met elkaar te maken hebben, meer dan ik misschien
+dacht. Maar weet niet of dat belangrijk genoeg wordt, ben nog bezig. Ben ze echter nu gaan
+opsplitsen in aparte textfiles. Ga even individueel verder. Kijk in die files voor meer.

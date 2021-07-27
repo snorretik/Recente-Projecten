@@ -1,0 +1,71 @@
+Oke dus. Ik heb wat code gekopieerd om te kijken of het zou werken. Maar dat is niet zo, was wel
+te verwachten. Ik moet op de een of andere manier de geïnstalleerde matter-js gebruiken. Ik heb
+hem global geïnstalleerd volgens mij. Maar goed.
+
+Het gaat dus via NPM. Ik heb daar notities over die gaan richting webpack. Maar misschien is het
+eerste gedeelte daarvan hetzelfde.
+
+Oke nu werkt het goed! Gelukkig. Heb echt in de map gegraven en matter.js zo met een script tag
+aangegeven.
+
+Oke het eerste wat ik me afvraag is hoe hij een canvas size heeft gekozen. Er staat nergens echt
+een grootte en dat is vaak toch het begin van wat je in moet stellen.
+
+Haha, ik kan het gewoon zien met inspect element. Width 800 en height 600.
+
+Leuk! Nou ben ik wel echt begonnen!
+
+Oke misschien kan ik dus echt wel een deel doen zonder die Udemy cursus.
+
+Oke ja misschien is het allemaal best simpel. Maar misschien ja... ik heb geen garantie dat het
+zal werken. Zoals ik nou las dacht ik dat ze vertices aanmaken voor een svg afbeelding.
+
+Shit... even... hmm... lijkt alsof alles heel simpel is misschien wel maar ja... krijg er een
+beetje vervelend gevoel bij.
+
+Ja kut.
+
+Nou...
+
+Nog steeds wel bezig... dus.
+
+Oke kan dus de grootte aanpassen. Dat was stap 1. Werkt ook. Moet ik options meegeven.
+
+Kan ook de achtergrondkleur aanpassen. Maar uhm... even kijken hoor. Ja het is waarschijnlijk
+uhm...
+
+Even opgezocht of sprites ook wel echt mogelijk zijn. Weet niet hoe ik daar ineens op kwam maar
+had ik nog niet gezien. Tja... Het zijn maar een paar dingen die ik voor ogen heb. Maar ja.
+Komt best wel veel bij kijken. Oh ja via de fill suggestie van terrain. Ik wil gewoon die
+afbeelding ook hebben.
+
+Kut ja ik blijf een beetje hangen...
+
+Ga ik maar gewoon de bunker doen?? Eens proberen, ziet er ingewikkeld uit. Maar misschien is het
+inderdaad allemaal nodig.
+
+Ik ga maar wat proberen... tja... wat anders...
+
+Oke ik ben een beetje huiverig om het zomaar over te nemen. Dus ik zit te kijken wat de
+verschillen zijn en ja. Ik probeer het een beetje te snappen voordat ik van alles klakkeloos
+overneem.
+
+Oke er worden twee extra dingen genoemd. Iets genaamd pathseg.js is voortaan nodig. En ook voor
+bepaalde vormen (concave) heb je misschien poly-decomp.js nodig. Dus dat is ook iets om 
+rekening mee te houden.
+
+Kon niet echt duidelijk ergens downloaden. Dus ik heb maar de file geopend en gekopieerd. Kan
+ook via NPM schijnbaar maar ik dacht dit is toch simpeler. Nou goed. Weet niet zeker maar ja.
+
+Dan...??
+
+Nou, ik zie doorgestreepte code in die file pathseg.js. Beetje vreemd. Heb het proberen op te
+zoeken. Maar het is "deprecated code". Dus het is op het punt om verwijderd te worden.
+
+Ja ik weet niet, ik kan het ook morgen doen. Het is wel iets groots. Dus ja... maar ik heb een
+redelijk overzicht. Al.
+
+Ja, ik wacht er toch even mee. Ik heb best goed gewerkt al eigenlijk! Dus dat is best mooi!
+
+Ik heb matter.js github geopend, de tutorials pagina daarvan, de matter.js terrain demo, de code
+daarvan, de matter.js svg documentatie, pathseg nog steeds maar die kan weg, en dat was het.

@@ -1,0 +1,137 @@
+Ja dus,
+
+Ik had inderdaad even een idee... kort nagedacht over wat ik kon doen met waar ik nu ben met het
+spelletje. Ik kan proberen, als ik echt wantrouw of deze modules werken, iets speciaals
+schrijven voor die modules zelf. Iets simpels.
+
+Kan.
+
+Kost tijd.
+Maar is misschien wel interessant.
+
+Ja het is toch wel heel erg als hobby hoor, jezus. Ik maak me totaal niet druk over hoeveel werk
+ik te doen heb. En ja.
+
+Ik zat nog een keer te denken aan Odin.
+
+Ik heb het niet eens tot React geschopt. Nou goed.
+
+Ik ben nou meer een beetje aan het hobbyen dus. Zo voelt het ook. Ik maak geen vooruitgang meer.
+
+Want ik denk eigenlijk wel dat ik het nodig heb om wat verder te blijven ontwikkelen, in plaats
+van nu bij een hobby projectje te blijven hangen.
+
+Ja dit zijn geen notities die in dit projectmapje horen. Maar ik ben het even aan het afwegen
+hoor. Er zit ook iets in wat mensen zeggen "doe eigen projecten". Op die zelfstandige manier
+leer je veel meer, zou de theorie zijn. Nou goed. Is misschien ook zo.
+
+Nou ja.
+
+-
+
+Ja nou misschien... moet ik het dan toch gaan plannen.
+
+Als ik toch Odin verder wil ontdekken.
+
+Tja echt waar dat is misschien best wel belangrijk.
+
+Wat wel moeilijker met dit spelletje is, dat het helemaal onbekend is eigenlijk. Heb weinig
+houvast in principe. Dus misschien leer je er inderdaad meer van. Omdat je echt moet... ja...
+zelfstandig aan de slag moet. In plaats van enigszins begeleid.
+
+-
+
+Oke kutzooi.
+Aan de gang! Godverdomme. Gewoon vol gas vóóruit! Maakt niet waarin, als je maar voortgang
+boekt in wát je kiest. Dan maar gewoon dit spelletje, maar wel echt aan de gang! Nóu, dan!
+
+Ja ik zat vast in me irriteren over die VSCode waarschuwingen.
+
+Oke ja het snelste... dat ik ken... is gewoon echt vragen (blijven) stellen.
+
+Dus misschien discord openen.
+
+Ja en elke keer als er ergens stond dat iemand problemen had of zich overweldigd voelde... dan
+dacht ik ik weet zeker dat ik het wel zou kunnen.
+
+Maar nu??
+
+Ik heb géén aanknopingspunt op dit moment.
+Oh ja ik opende youtube om matter.js eens op te zoeken. Veel uitleg wordt inmiddels via
+youtube gedaan.
+
+Eens kijken.
+
+Nou, een van de resultaten heb ik ooit al eens gezien maar is echt een begin met de basics.
+
+Ja ik moet waarschijnlijk echt vragen. Dat is het snelst en het makkelijkst en kan dingen
+duidelijk maken waar je anders misschien eeuwen over zou doen.
+
+Hoe ga ik het anders voor elkaar krijgen. Ja nou ja ik kan de code echt uit elkaar gaan
+pluizen.
+
+Misschien eens kijken wat voor een opties setDecomp werkelijk heeft.
+
+Oke nou ga ik verder met require. Misschien zijn daar dingen waar ik niet van weet wat
+belangrijk is hiervoor.
+
+Misschien heb ik iets, per ongeluk (zul je vaak zien). Een alternatief.
+
+Ja... ! Je kan schijnbaar gewoon ./ gebruiken in require. En hij vind ook echt iets want hij
+autocomplete bepaalde js files. Dus ik kan de goede gewoon selecteren.
+
+Eens kijken wat ie doet, haha.
+
+Nee, doet nog niks. Ik dacht wel dat dat niet het enige zou zijn.
+
+Hij zou svg terrain wel moeten vinden. Waarom zou die anders zoeken dan de root met
+poly-decomp? Nou goed ik kreeg hier geen autocomplete.
+
+Ja ik kan hem debuggen natuurlijk, kijken wat ie doet. Want het enige wat ik nu... eruit haal
+is een leeg scherm. Dus ja.
+
+Had ik veel eerder aan kunnen denken, maar goed. Eens kijken.
+
+Hmm...
+
+Ja. Hij lijkt niet eens iets te doen. Zit daarom nu te kijken naar...
+
+Misschien is het iets heel erg stoms, want... hij export hem als module ja... zo ziet het er
+uit. En dat doet mij denken, misschien moet ik hem dan gebruiken. En doet ie dat nog niet.
+
+Oke, ik heb een poging hem gedaan door hem gewoon te runnen, met Example.terrain(). En nu
+geeft ie wel een error alsof ie er nou bezig mee gaat.
+
+Hij snapt niet wat "require" is.
+
+Ja juist, dat is dus wat ik ook een beetje kón denken in ieder geval, het leek erop alsof ik
+webpack nodig heb gewoon om require bijvoorbeeld beschikbaar te maken.
+
+Kom ik nou dus tegen.
+
+Oke nou, het is allemaal nog steeds een long shot elke keer, er kan zoveel fout zijn, maar 
+misschién doet ie het. Enigszins. Of krijg ik error meldingen waar ik iets mee kan, daar hoop
+ik eigenlijk het meeste op. Maar ja ik heb dus echt nu dingen moeten doen die onvermijdelijk
+waren. En gelukkig heb ik die ook gevonden. Op zich dus sowieso al vooruitgang geboekt, maar
+weet nog niet hoeveel ik nog te gaan heb.
+
+Oke nou, inderdaad... hij rommelt met van alles is ook hoe ik het me herinner, dus je kunt
+niet zomaar meer scripts erbij zetten en dat alles het dan nog doet.
+
+Kan ik op zoeken, en heb wel dingen op gevonden, maar ga ik nog niet doen. Maar het is logisch
+voor wat ik er van begrijp, dus ja het verbaast me niet helemaal... ook al is dat gedoe met
+webpack echt al lang geleden, ik weet nog steeds hoe ik het me herinnerd heb.
+
+Ik sluit de Firefox browser even zoals ik hem nu heb, dan zou hij alles de volgende keer weer
+moeten laden.
+
+En anders is het nog vrij makkelijk allemaal weer gevonden.
+
+Even kijken, voor de zekerheid.
+
+Oke, ik heb de terrain.js even gebookmarked.
+
+Nou de search results ook.
+
+Maar ik weet waar ik het dus in moet zoeken, script tags gebruiken in webpack, dat is namelijk
+iets aparts. Werkt niet zomaar, nadat webpack alles over "pakt" met "npx webpack".
