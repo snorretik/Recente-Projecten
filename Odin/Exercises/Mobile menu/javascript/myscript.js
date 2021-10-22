@@ -14,7 +14,7 @@ function initializeTheStuff() {
     scrollableElement.addEventListener('mousedown', (e) => {
         // let xAbsolutePos = []
 
-        x.addEventListener('bla', (e) => {})
+        
 
         scrollableElement.addEventListener('mousemove', theEventItsself(e));
     })
