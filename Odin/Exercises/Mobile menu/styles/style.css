@@ -12,18 +12,18 @@ label {
 }
 
 #bargonnascroll {
-    padding: 5px 18px 5px 18px;
+    margin-right: 10px;
+    padding: 50px 50px 50px 50px;
+
+    /* padding: 5px 18px 5px 18px; */
 
     border-style: solid;
     border-width: 1px;
 
     display: inline-block;
 
+    /* Ik zat nog te spelen, daarom had ik hier nog wat extra ruimte gecreëerd. */
 
-
-
-
-    
     white-space: nowrap;
 }
 
