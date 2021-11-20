@@ -1,0 +1,34 @@
+label {
+    background-color: rgb(194, 194, 194);
+
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 4px;
+    display: inline-block;
+
+    width: 140px;
+    text-align: center;
+    font-size: 14px;
+}
+
+#bargonnascroll {
+    margin-right: 10px;
+    padding: 50px 50px 50px 50px;
+
+    /* padding: 5px 18px 5px 18px; */
+
+    border-style: solid;
+    border-width: 1px;
+
+    display: inline-block;
+
+    /* Ik zat nog te spelen, daarom had ik hier nog wat extra ruimte gecreëerd. */
+
+    white-space: nowrap;
+}
+
+.radioKnop {
+    opacity: 0;
+    position: fixed;
+    width: 0;
+}
