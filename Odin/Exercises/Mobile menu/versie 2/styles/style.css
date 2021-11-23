@@ -4,6 +4,7 @@ label {
     border-style: solid;
     border-width: 1px;
     border-radius: 4px;
+
     display: inline-block;
 
     width: 140px;
@@ -12,15 +13,13 @@ label {
 }
 
 #bargonnascroll {
-    margin-right: 10px;
+    margin-right: 0px;
     padding: 50px 50px 50px 50px;
 
     /* padding: 5px 18px 5px 18px; */
 
     border-style: solid;
     border-width: 1px;
-
-    display: inline-block;
 
     /* Ik zat nog te spelen, daarom had ik hier nog wat extra ruimte gecreëerd. */
 
